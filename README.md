@@ -11,6 +11,6 @@ Todas as minhas soluções para problemas do Juiz Online URI.
 ## Categories
 
 ### [01 - Beginner 42 %](https://github.com/limadmarcos/uri-solutions/tree/master/01-beginner)
-### [02 - Ad-Hoc 	 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/02-ad-hoc)
-### [03 - Strings 	 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/03-strings)
-### 09 - SQL		72 %
+### [02 - Ad-Hoc 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/02-ad-hoc)
+### [03 - Strings 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/03-strings)
+### [09 - SQL 72 %](https://github.com/limadmarcos/uri-solutions/tree/master/09-sql)
