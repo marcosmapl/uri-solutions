@@ -2,8 +2,10 @@
 URI Online Judge | 1072
 Interval 2
 Adapted by Neilor Tonin, URI  Brazil
+https://www.urionlinejudge.com.br/judge/en/problems/view/1072
 
 Timelimit: 1
+
 Read an integer N. This N will be the number of integer numbers X that will be read.
 
 Print how many these numbers X are in the interval [10,20] and how many values are out of this interval.
