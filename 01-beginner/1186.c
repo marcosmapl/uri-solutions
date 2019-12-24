@@ -2,8 +2,10 @@
 URI Online Judge | 1186
 Below the Secundary Diagonal
 By Neilor Tonin, URI  Brazil
+https://www.urionlinejudge.com.br/judge/en/problems/view/1186
 
 Timelimit: 1
+
 Read an uppercase character that indicates an operation that will be performed in an array M[12][12]. Then, calculate and print the sum or average considering only that numbers that are below of the Secundary diagonal of the array, like shown in the following figure (green area).
 https://resources.urionlinejudge.com.br/gallery/images/problems/UOJ_1186.png
 
