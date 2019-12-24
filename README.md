@@ -14,3 +14,4 @@ Todas as minhas soluções para problemas do Juiz Online URI.
 ### [02 - Ad-Hoc 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/02-ad-hoc)
 ### [03 - Strings 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/03-strings)
 ### [09 - SQL 72 %](https://github.com/limadmarcos/uri-solutions/tree/master/09-sql)
+### [10 - Christmas Contest](https://github.com/limadmarcos/uri-solutions/tree/master/contest-christmas)
