@@ -24,3 +24,18 @@ For each test, the output consists of one line saying "vai ter copa!" if there i
 @size 244 Bytes
 @submission 25/12/2019 23:10:57
 */
+#include <stdio.h>
+
+int main()
+{
+    unsigned char n;
+    
+    while(scanf("%hhu", &n) != EOF) {
+        if (n == 0)
+            printf("vai ter copa!\n");
+        else
+            printf("vai ter duas!\n");
+    }
+
+    return 0;
+}
