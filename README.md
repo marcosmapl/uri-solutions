@@ -22,3 +22,7 @@ Todas as minhas soluções para problemas do [Juiz Online URI](https://www.urion
 	* [03 - Strings Problems Solutions 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/03-strings)
 	* [09 - SQL Problems Solutions 72 %](https://github.com/limadmarcos/uri-solutions/tree/master/09-sql)
 	* [10 - Christmas Contest Solutions](https://github.com/limadmarcos/uri-solutions/tree/master/contest-christmas)
+
+<img src="submissions.png">
+<img src="problems-web.png">
+<img src="languages.png">
