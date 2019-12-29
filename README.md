@@ -10,7 +10,7 @@ Todas as minhas soluções para problemas do Juiz Online URI.
 
 <b>Name:</b> <a href="https://www.urionlinejudge.com.br/judge/en/profile/242402">Marcos  Lima</a>
 
-<b>Contry:</b> Brazil
+<b>Country:</b> Brazil
 
 <b>University:</b> Universidade Federal do Amazonas - <a href="https://www.urionlinejudge.com.br/judge/en/users/university/ufam">UFAM</a>
 
@@ -30,8 +30,12 @@ Todas as minhas soluções para problemas do Juiz Online URI.
 
 <b>Submissions:</b> 261
 
-### [01 - Beginner 51 %](https://github.com/limadmarcos/uri-solutions/tree/master/01-beginner)
-### [02 - Ad-Hoc 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/02-ad-hoc)
-### [03 - Strings 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/03-strings)
-### [09 - SQL 72 %](https://github.com/limadmarcos/uri-solutions/tree/master/09-sql)
-### [10 - Christmas Contest](https://github.com/limadmarcos/uri-solutions/tree/master/contest-christmas)
+[01 - Beginner Problems Solutions 51 %](https://github.com/limadmarcos/uri-solutions/tree/master/01-beginner)
+
+[02 - Ad-Hoc Problems Solutions 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/02-ad-hoc)
+
+[03 - Strings Problems Solutions 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/03-strings)
+
+[09 - SQL Problems Solutions 72 %](https://github.com/limadmarcos/uri-solutions/tree/master/09-sql)
+
+[10 - Christmas Contest Solutions](https://github.com/limadmarcos/uri-solutions/tree/master/contest-christmas)
