@@ -2,8 +2,10 @@
 URI Online Judge | 1959
 Regular Simple Polygons
 By M.C. Pinto, UNILA BR Brazil
+https://www.urionlinejudge.com.br/judge/en/problems/view/1959
 
 Timelimit: 1
+
 In Euclidean geometry, a regular polygon is a polygon that is equiangular (all angles are equal in measure) and equilateral (all sides have the same length). A simple polygon is one that does not intersect itself anywhere. Below we can see various mosaics made of regular polygons.
 https://www.urionlinejudge.com.br/gallery/images/contests/C_1.jpg
 
