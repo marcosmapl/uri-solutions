@@ -6,9 +6,29 @@ Todas as minhas soluções para problemas do Juiz Online URI.
 
 <a href="https://www.urionlinejudge.com.br/">URI Webpage</a>
 
-<a href="https://www.urionlinejudge.com.br/judge/en/profile/242402">My Profile</a>
+## My Profile
 
-## Categories
+<b>Name:</b> <a href="https://www.urionlinejudge.com.br/judge/en/profile/242402">Marcos  Lima</a>
+
+<b>Contry:</b> Brazil
+
+<b>University:</b> Universidade Federal do Amazonas - <a href="https://www.urionlinejudge.com.br/judge/en/users/university/ufam">UFAM</a>
+
+<b>Since:</b> 3/26/2019
+
+<b>Main Rank Position:</b> 3567º
+
+<b>Institution Rank Position:</b> 35º
+
+## Progress 09.28 %
+
+<b>Points:</b> 576.8
+
+<b>Solved:</b> 187
+
+<b>Tried:</b> 190
+
+<b>Submissions:</b> 260
 
 ### [01 - Beginner 44 %](https://github.com/limadmarcos/uri-solutions/tree/master/01-beginner)
 ### [02 - Ad-Hoc 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/02-ad-hoc)
