@@ -16,21 +16,21 @@ Todas as minhas soluções para problemas do Juiz Online URI.
 
 <b>Since:</b> 3/26/2019
 
-<b>Main Rank Position:</b> 3567º
+<b>Main Rank Position:</b> 3493º
 
-<b>Institution Rank Position:</b> 35º
+<b>Institution Rank Position:</b> 34º
 
-## Progress 09.28 %
+## Progress 09.33 %
 
-<b>Points:</b> 576.8
+<b>Points:</b> 582.4
 
-<b>Solved:</b> 187
+<b>Solved:</b> 188
 
-<b>Tried:</b> 190
+<b>Tried:</b> 191
 
-<b>Submissions:</b> 260
+<b>Submissions:</b> 261
 
-### [01 - Beginner 50 %](https://github.com/limadmarcos/uri-solutions/tree/master/01-beginner)
+### [01 - Beginner 51 %](https://github.com/limadmarcos/uri-solutions/tree/master/01-beginner)
 ### [02 - Ad-Hoc 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/02-ad-hoc)
 ### [03 - Strings 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/03-strings)
 ### [09 - SQL 72 %](https://github.com/limadmarcos/uri-solutions/tree/master/09-sql)
