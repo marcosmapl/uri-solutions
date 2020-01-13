@@ -23,7 +23,14 @@ Todas as minhas soluções para problemas do [Juiz Online URI](https://www.urion
 	* [09 - SQL Problems Solutions 74 %](https://github.com/limadmarcos/uri-solutions/tree/master/09-sql)
 	* [10 - Christmas Contest Solutions](https://github.com/limadmarcos/uri-solutions/tree/master/contest-christmas)
 
+## Progress (Past 6 Months)
 <img src="progress.png">
-<img src="submissions.png">
+
+## Problems by Category
 <img src="problems-web.png">
+
+## Submissions by Answer
+<img src="submissions.png">
+
+## Submissions by Language
 <img src="languages.png">
