@@ -48,11 +48,11 @@ This division help the users to focus on specific programming topics. All proble
 ## Competition and Ranking
 
 Solve the available problems using 11 programming languages, and compete with other users. As a challengee, improve your ranking, solving as many problems as possible and tunning your source code to run faster.
-* ANSI C
-* C++
+* ANSI C, C99
+* C++, C++17
 * C#
-* Java
-* Python
+* Java 8
+* Python 3
 * Ruby
 * Scala
 * GO
@@ -61,7 +61,8 @@ Solve the available problems using 11 programming languages, and compete with ot
 * Lua
 * Pascal
 * Haskell
-* OCAML 
+* OCaml
+* PostgreSQL
 
 ## My Profile
 * <b>Name:</b> <a href="https://www.urionlinejudge.com.br/judge/en/profile/242402">Marcos Lima (marcosmapl)</a>
