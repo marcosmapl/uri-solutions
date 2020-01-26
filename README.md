@@ -76,11 +76,11 @@ Solve the available problems using 11 programming languages, and compete with ot
 * <b>Solved:</b> 212 (10.34 %)
 * <b>Tried:</b> 215
 * <b>Submissions:</b> 288
-	* [01 - Beginner Problems Solutions 56 %](https://github.com/limadmarcos/uri-solutions/tree/master/01-beginner)
-	* [02 - Ad-Hoc Problems Solutions 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/02-ad-hoc)
-	* [03 - Strings Problems Solutions 1 %](https://github.com/limadmarcos/uri-solutions/tree/master/03-strings)
-	* [09 - SQL Problems Solutions 74 %](https://github.com/limadmarcos/uri-solutions/tree/master/09-sql)
-	* [10 - Christmas Contest Solutions](https://github.com/limadmarcos/uri-solutions/tree/master/contest-christmas)
+	* 01 - [Beginner Problems Solutions](https://github.com/limadmarcos/uri-solutions/tree/master/01-beginner) [56%]
+	* 02 - [Ad-Hoc Problems Solutions](https://github.com/limadmarcos/uri-solutions/tree/master/02-ad-hoc) [1%]
+	* 03 - [Strings Problems Solutions](https://github.com/limadmarcos/uri-solutions/tree/master/03-strings) [1%]
+	* 09 - [SQL Problems Solutions](https://github.com/limadmarcos/uri-solutions/tree/master/09-sql) [74%]
+	* 10 - [Christmas Contest Solutions](https://github.com/limadmarcos/uri-solutions/tree/master/contest-christmas)
 
 <!-- Markdown link & img dfn's -->
 [wiki]: https://github.com/marcosmapl/uri-solutions/wiki
