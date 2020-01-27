@@ -74,7 +74,7 @@ Solve the available problems using 11 programming languages, and compete with ot
 
 ## My Progress
 * <b>Points:</b> 654.1
-* <b>Solved:</b> 220 (10.34 %)
+* <b>Solved:</b> 220 (10.73 %)
 * <b>Tried:</b> 223
 * <b>Submissions:</b> 300
 	* 01 - [Beginner Problems Solutions](https://github.com/limadmarcos/uri-solutions/tree/master/01-beginner) [56%]
