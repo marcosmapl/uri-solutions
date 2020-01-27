@@ -67,7 +67,7 @@ Solve the available problems using 11 programming languages, and compete with ot
 ## My Profile
 * <b>Name:</b> <a href="https://www.urionlinejudge.com.br/judge/en/profile/242402">Marcos Lima (marcosmapl)</a>
 * <b>Country:</b> Brazil
-* <b>University:</b> Universidade Federal do Amazonas - <a href="https://www.urionlinejudge.com.br/judge/en/users/university/ufam">UFAM</a>
+* <b>University:</b> Federal University of Amazonas - <a href="https://www.urionlinejudge.com.br/judge/en/users/university/ufam">UFAM</a>
 * <b>Since:</b> 3/26/2018
 * <b>Main Rank Position:</b> 2,790º
 * <b>Institution Rank Position:</b> 34º
