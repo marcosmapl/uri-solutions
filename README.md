@@ -69,14 +69,14 @@ Solve the available problems using 11 programming languages, and compete with ot
 * <b>Country:</b> Brazil
 * <b>University:</b> Universidade Federal do Amazonas - <a href="https://www.urionlinejudge.com.br/judge/en/users/university/ufam">UFAM</a>
 * <b>Since:</b> 3/26/2018
-* <b>Main Rank Position:</b> 2,913º
+* <b>Main Rank Position:</b> 2,790º
 * <b>Institution Rank Position:</b> 34º
 
 ## My Progress
-* <b>Points:</b> 638.5
-* <b>Solved:</b> 212 (10.34 %)
-* <b>Tried:</b> 215
-* <b>Submissions:</b> 288
+* <b>Points:</b> 654.1
+* <b>Solved:</b> 220 (10.34 %)
+* <b>Tried:</b> 223
+* <b>Submissions:</b> 300
 	* 01 - [Beginner Problems Solutions](https://github.com/limadmarcos/uri-solutions/tree/master/01-beginner) [56%]
 	* 02 - [Ad-Hoc Problems Solutions](https://github.com/limadmarcos/uri-solutions/tree/master/02-ad-hoc) [1%]
 	* 03 - [Strings Problems Solutions](https://github.com/limadmarcos/uri-solutions/tree/master/03-strings) [1%]
