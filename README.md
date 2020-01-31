@@ -87,7 +87,7 @@ Solve the available problems using 11 programming languages, and compete with ot
 [wiki]: https://github.com/marcosmapl/uri-solutions/wiki
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/marcosmapl
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/marcosmapl/uri-solutions.svg?style=flat-square
 [contributors-url]: https://github.com/marcosmapl/uri-solutions/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/marcosmapl/uri-solutions.svg?style=flat-square
 [forks-url]: https://github.com/marcosmapl/uri-solutions/network/members
@@ -96,7 +96,7 @@ Solve the available problems using 11 programming languages, and compete with ot
 [issues-shield]: https://img.shields.io/github/issues/marcosmapl/uri-solutions.svg?style=flat-square
 [issues-url]: https://github.com/marcosmapl/uri-solutions/issues
 [license-shield]: https://img.shields.io/github/license/marcosmapl/uri-solutions.svg?style=flat-square
-[license-url]: https://github.com/marcosmapl/uri-solutions/blob/master/LICENSE.txt
+[license-url]: https://github.com/marcosmapl/uri-solutions/blob/master/LICENSE
 
 ## Contact
 
@@ -110,7 +110,7 @@ Marcos Lima  – marcos.lima@icomp.ufam.edu.br
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**	
+- **[MIT license](https://opensource.org/licenses/MIT)**	
 - Copyright 2020 © <a href="https://www.linkedin.com/in/marcosmapl" target="_blank">marcosmapl</a>.
 
 <!-- ACKNOWLEDGEMENTS -->
