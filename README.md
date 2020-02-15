@@ -69,7 +69,7 @@ Solve the available problems using 11 programming languages, and compete with ot
 * <b>Country:</b> Brazil
 * <b>University:</b> Federal University of Amazonas - <a href="https://www.urionlinejudge.com.br/judge/en/users/university/ufam">UFAM</a>
 * <b>Since:</b> 3/26/2018
-* <b>Main Rank Position:</b> 2,700º
+* <b>Main Rank Position:</b> 2,659º
 * <b>Institution Rank Position:</b> 35º
 
 ## My Progress
